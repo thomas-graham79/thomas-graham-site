@@ -1,0 +1,1 @@
+import ChatAssistantCaseStudy from './chat-assistant'; export default ChatAssistantCaseStudy;

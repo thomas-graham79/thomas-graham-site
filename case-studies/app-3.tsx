@@ -1,0 +1,1 @@
+import App3CaseStudy from './app-3'; export default App3CaseStudy;
