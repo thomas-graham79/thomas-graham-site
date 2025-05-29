@@ -17,7 +17,26 @@ export default function App3CaseStudy() {
         </p>
       </section>
 
-     <section className="space-y-4">
+      <section className="space-y-4">
+        <h2 className="text-2xl font-semibold border-b pb-2 border-zinc-300">Methods</h2>
+        <ul className="list-disc pl-5 space-y-2">
+          <li>In-person usability testing</li>
+          <li>Patients with existing app familiarity</li>
+          <li>Focus on homepage, navigation, and accessibility settings</li>
+        </ul>
+      </section>
+
+      <section className="space-y-4">
+        <h2 className="text-2xl font-semibold border-b pb-2 border-zinc-300">Key Insights</h2>
+        <ul className="list-disc pl-5 space-y-2">
+          <li><strong>Mixed Reactions:</strong> Some users appreciated the cleaner layout, while others felt lost.</li>
+          <li><strong>Desire for Personalization:</strong> Users wanted provider-first views, not generic virtual care.</li>
+          <li><strong>Accessibility Gaps:</strong> Enlarged text and screen contrast settings broke layouts and confused users.</li>
+          <li><strong>Navigation Challenges:</strong> Being taken out of the app to external pages led to trust issues and disorientation.</li>
+        </ul>
+      </section>
+
+      <section className="space-y-4">
         <h2 className="text-2xl font-semibold border-b pb-2 border-zinc-300">Impact</h2>
         <p className="leading-relaxed">
           The team prioritized bug fixes and design adjustments that addressed accessibility issues, personalized care options, and internal page routing. These changes increased clarity, reduced friction, and aligned the app closer to user expectations.
