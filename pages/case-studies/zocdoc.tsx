@@ -31,7 +31,7 @@ export default function ZocdocCaseStudy() {
         <ul className="list-disc pl-5 space-y-2">
           <li><strong>Insurance Is King:</strong> Accurate insurance filtering is essential for trust.</li>
           <li><strong>Guided Search:</strong> Helpful but must be optional and context-aware.</li>
-          <li><strong>Availability > Ratings:</strong> Users prioritize schedule fit over provider reviews.</li>
+          <li><strong>Availability {">"} Ratings:</strong> Users prioritize schedule fit over provider reviews.</li>
           <li><strong>Direct Searches:</strong> Patients prefer searching by provider type, not symptoms.</li>
         </ul>
       </section>
