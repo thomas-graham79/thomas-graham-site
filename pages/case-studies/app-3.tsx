@@ -17,9 +17,12 @@ export default function App3CaseStudy() {
         </p>
       </section>
 
-      <section className="space-y-4">
-        <h2 className="text-2xl font-semibold border-b pb-2 border-zinc-300">Methods</h2>
-        <ul className="list-disc pl-5 space-y-2">
-          <li>In-person usability testing</li>
-          <li>Patients with existing app familiarity</li>
-          <li>Focus on homepage, navigation, and accessibility settings</li>
+     <section className="space-y-4">
+        <h2 className="text-2xl font-semibold border-b pb-2 border-zinc-300">Impact</h2>
+        <p className="leading-relaxed">
+          The team prioritized bug fixes and design adjustments that addressed accessibility issues, personalized care options, and internal page routing. These changes increased clarity, reduced friction, and aligned the app closer to user expectations.
+        </p>
+      </section>
+    </main>
+  );
+}
