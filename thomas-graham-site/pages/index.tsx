@@ -1,0 +1,1 @@
+import Home from './portfolio'; export default Home;
